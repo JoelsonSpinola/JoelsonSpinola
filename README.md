@@ -11,9 +11,11 @@
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <p align="center">
 - 🌱 I’m currently learning **C,Java,Javascript,React,Nodejs,HTML,CSS,SQL,Python**
-
+ </p>
+<p align="center">
 - 💬 Ask me about **C**
-
+  </p>
+<p align="center">
 - 📫 How to reach me **joelsonadolfospinola@gmail.com**
 </p>
 <h3 align="center">Connect with me:</h3>
