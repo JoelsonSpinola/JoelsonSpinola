@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joelson Spínola</h1>
 <h3 align="center">A passionate frontend developer, web designer and photographer from Cabo Verde</h3>
-<img align-item="center" alt="Desing" width="300" src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif">
+<img align="center" alt="Desing" width="300" src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelsonspinola&label=Profile%20views&color=0e75b6&style=flat" alt="joelsonspinola" /> </p>
 
