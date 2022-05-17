@@ -1,3 +1,4 @@
+<p align="center">
 <h1 align="center">Hi 👋, I'm Joelson Spínola</h1>
 <h3 align="center">A passionate frontend developer, web designer and photographer from Cabo Verde</h3>
 <p align="center">
@@ -33,3 +34,5 @@
 
 [UTA](https://uta.cv/)
 </p>
+</p>
+
