@@ -24,8 +24,5 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joelsonspinola&show_icons=true&locale=en" alt="joelsonspinola" /></p>
 
-<p align="center">
-[UTA](https://uta.cv/)
-</p>
 </p>
 
