@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Joelson Spínola</h1>
+<h1 align="center">Hi 👋, I'm </h1>
+
+## <div align="center"><h1>Hi, My Name is Joelson Spínola 🖥️ </h1></div><div align="rigth">[![Website](https://img.shields.io/badge/Software--Engineering--Student-UTA-blueviolet?style=flat-circle)](https://uta.cv)<img src="https://komarev.com/ghpvc/?username=ronz97&color=blueviolet&label=Visualizações+do+perfil&style=flat-circle" align="right"/></div>
 <h3 align="center">A passionate frontend developer, web designer and photographer from Cabo Verde</h3>
 <p align="center">
 <img align="center" alt="Desing" width="300" src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif">
